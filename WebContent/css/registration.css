@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+div {
+	text-align: center;
+	border: solid 1px #000000;
+	width: 500px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.button1 {
+	padding: 15px 30px;
+	background: #ffffff;
+	margin-right: 20px;
+}
+
+.button2 {
+	padding: 15px 30px;
+	background: #ffffff;
+	margin-left: 20px;
+}
